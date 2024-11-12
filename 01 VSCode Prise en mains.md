@@ -23,6 +23,12 @@
 
 ![Ouvrir clic droit](img/ouvrir-clic-droit.png)
 
+Cf. [Menu contextuel](https://www.zebulon.fr/astuces/pratique/ajouter-nimporte-quel-raccourci-au-menu-contextuel-de-windows.html>)
+
+Clé de registre : `Ordinateur\HKEY_CURRENT_USER\Software\Classes\Directory\Background\shell\VSCode`
+
+![alt text](img/menu-contextuel.png)
+
 ### Interface en ligne de commande
 
 Créer un dossier et écrire `code .` ou `codium .` pour ouvrir le dossier en cours

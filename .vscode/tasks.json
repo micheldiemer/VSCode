@@ -1,0 +1,15 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Open in notepad",
+      "type": "process",
+      "command": "notepad.exe",
+      "presentation": {
+        "reveal": "always"
+      },
+      "problemMatcher": [],
+      "args": ["${file}"]
+    }
+  ]
+}
